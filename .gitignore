@@ -20,3 +20,4 @@ Thumbs.db
 # commit the rendered HTML with your assignment.
 ch6_tea_simulations*.html
 ch6_tea_simulations*_files/
+.positai
